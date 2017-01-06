@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "速查",
+    "version": "1.0",
+    "description": "帮助你快速查询及信息收集的工具.",
+    "icons": {
+        "16": "./images/icon.png",
+        "48": "./images/icon.png",
+        "128": "./images/icon.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "./images/icon.png",
+            "38": "./images/icon.png"
+        },
+        "default_title": "速查 By:0x584A",
+        "default_popup": "sucha.html"
+    }
+}
