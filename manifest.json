@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "速查",
-    "version": "1.0",
+    "version": "1.1",
     "description": "帮助你快速查询及信息收集的工具.",
     "icons": {
         "16": "./images/icon.png",
